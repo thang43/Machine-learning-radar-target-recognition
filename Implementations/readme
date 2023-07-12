@@ -1,0 +1,8 @@
+Project: Machine learning techniques for radar target recognition
+Implementation files:
+- Download data: https://drive.google.com/drive/folders/1VhHrsd4bsBKlOPu6mcLdzSeEooLo43ul?usp=sharing and put it the Implementations folder, Change the root folder in the script to run the code
+- AlexNet, GoogleNet (Matlab):
+    + 5 Trained networks, 1 trained with full dataset trajectories, 4 trained with one trajectory
+- Lenet, CustomNet (Pytorch):
+    + 5 Trained networks, same as AlexNet and GoogleNet
+- A script to calculate F1 score to compare the networks performance (included in the network script)
